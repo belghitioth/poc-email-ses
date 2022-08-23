@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1200.0",
+    "mailparser": "^3.5.0",
+    "node-fetch": "^2.6.7"
+  }
+}
